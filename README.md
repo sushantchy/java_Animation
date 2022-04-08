@@ -1,24 +1,24 @@
-[![AOS - Animate on scroll library](https://s32.postimg.org/ktvt59hol/aos_header.png)](http://michalsnik.github.io/aos/)
+
 
 [![NPM version](https://img.shields.io/npm/v/aos/next.svg?style=flat)](https://npmjs.org/package/aos)
 [![NPM downloads](https://img.shields.io/npm/dm/aos.svg?style=flat)](https://npmjs.org/package/aos)
-[![Build Status](https://travis-ci.org/michalsnik/aos.svg?branch=master)](https://travis-ci.org/michalsnik/aos)
-[![Gitter](https://badges.gitter.im/michalsnik/aos.svg)](https://gitter.im/michalsnik/aos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Build Status](https://travis-ci.org/sushantchy/aos.svg?branch=master)](https://travis-ci.org/sushantchy/aos)
+[![Gitter](https://badges.gitter.im/sushantchy/aos.svg)](https://gitter.im/michalsnik/aos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/michalsnik.svg?style=social)](https://twitter.com/michalsnik) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/home?status=AOS%20-%20Animate%20on%20Scroll%20library%0Ahttps%3A//github.com/michalsnik/aos)
 
 ## :exclamation::exclamation::exclamation: This is README for aos@next :exclamation::exclamation::exclamation:
 
-For last stable release (v2) go [here](https://github.com/michalsnik/aos/tree/v2)
+For last stable release (v2) go [here](https://github.com/sushantchy/aos/tree/v2)
 
 ---
-### 🚀 [Demo](http://michalsnik.github.io/aos/)
+### 🚀 [Demo](http://sushantchy.github.io/aos/)
 
 ### 🌟 Codepen Examples
-- [Different built-in animations](http://codepen.io/michalsnik/pen/WxNdvq)
-- [With anchor setting in use](http://codepen.io/michalsnik/pen/jrOYVO)
-- [With anchor-placement and different easings](http://codepen.io/michalsnik/pen/EyxoNm)
-- [With simple custom animations](http://codepen.io/michalsnik/pen/WxvNvE)
+- [Different built-in animations](http://codepen.io/sushantchy/pen/WxNdvq)
+- [With anchor setting in use](http://codepen.io/sushantchy/pen/jrOYVO)
+- [With anchor-placement and different easings](http://codepen.io/sushantchy/pen/EyxoNm)
+- [With simple custom animations](http://codepen.io/sushantchy/pen/WxvNvE)
 
 👉 To get a better understanding how this actually works, I encourage you to check [my post on CSS-tricks](https://css-tricks.com/aos-css-driven-scroll-animation-library/).
 
